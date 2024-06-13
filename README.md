@@ -11,3 +11,7 @@
 #Image
 
 ![Histogram](resources/images/histogram-example-2.png)
+
+#Folder
+
+![Folder](resources/images)

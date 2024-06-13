@@ -4,3 +4,4 @@
 #URL links
 [URL name](https://www.markdownguide.org/cheat-sheet/) 
 #Image
+![Histogram](resources/images/histogram-example-2.png)
